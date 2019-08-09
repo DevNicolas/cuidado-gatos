@@ -1,0 +1,84 @@
+*{
+    margin: auto;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url("fondo.gato.jpg");
+}
+.contenedor{
+    width: 100%;
+    height: 80%;
+    text-align: center;
+
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+    text-justify: inter-word;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.titulo{
+    top:30px;
+    color: white;
+}
+.uno{
+    float: left;
+    width: 20%;
+    padding-left: 15%;
+}
+.dos{
+    width: 20%;
+}
+.info{
+    width: 100%;
+    height: 40%;
+}
+ul{
+    text-align: left;
+}
+li{
+    color: white;
+}
+.lista
+{
+    width: 30%;
+    float: left;
+}
+.tres{
+    float: left;
+    width: 10%;
+}
+.cuatro{
+    width: 13%;
+    float: left;
+    padding-left: 15px;
+}
+.cinco{
+    float: left;
+    width: 10%;
+    padding-left: 15px;
+}
+.seis{
+    float: left;
+    width: 10%;
+    padding-left: 15px;
+}
+.siete{
+
+    width: 20%;
+}
+.ocho{
+    padding-left: 30px;
+    width: 20%;
+}
+form{
+    color: white;
+    font-size: 30px;
+}
